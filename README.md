@@ -5,3 +5,4 @@ Changing the world of open source! Down below are projects i worked on
 <br>
 <br>
 <a href="https://github.com/OSL-Works/Steam-Card-Bot-PRO"><img src="https://gh-card.dev/repos/OSL-Works/Steam-Card-Bot-PRO.svg"></a>
+<a href="https://github.com/OSL-Works/Discord-Channel-Moderator"><img src="https://gh-card.dev/repos/OSL-Works/Discord-Channel-Moderator.svg"></a>
