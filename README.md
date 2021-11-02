@@ -2,7 +2,4 @@
 
 Im full stack/lead developer and CEO of Refloow - https://refloow.com <br>
 Changing the world of open source! Down below are organizations that are part of <a href="https://refloow.com">Refloow.com </a>
-<br>
-<br>
-<a href="https://github.com/OSL-Works"><img src="https://gh-card.dev/repos/OSL-Works/SourceBox.svg"></a>
-<a href="https://github.com/SteamTrade-services"><img src="https://gh-card.dev/repos/SteamTrade-services/SteamTrade.services.svg"></a>
+
